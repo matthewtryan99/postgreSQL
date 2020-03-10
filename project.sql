@@ -1,0 +1,16 @@
+--Question 1
+-- SELECT
+--     *
+-- FROM
+--     project_uses_tech
+-- INNER JOIN
+--     project
+-- ON
+--     project.id = project_uses_tech.project_id
+-- INNER JOIN
+--     tech
+-- ON
+--     tech.id = project_uses_tech.tech_id;
+-- WHERE
+--     tech.id = 3;
+

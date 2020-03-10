@@ -1,0 +1,7 @@
+STEP 1
+1) many-to-many
+2) one-to-many
+3) many-to-many
+4) many-to-many
+5) one-to-many
+6) one-to-many
